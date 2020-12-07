@@ -22,7 +22,10 @@ var carDetails = {
 */
 
 //Code Here
-
+let color = carDetails.color;
+let make = carDetails.make;
+let model = carDetails.model;
+let year = carDetails.year;
 
 
 ////////// PROBLEM 2 //////////
@@ -35,7 +38,7 @@ var carDetails = {
 
 function greeting( obj ) {
   //Code Here
-  
+
   // Do not edit the code below.
   return 'Hello, ' + title + ' ' + firstName + ' ' + lastName + '!';
   // Do not edit the code above.

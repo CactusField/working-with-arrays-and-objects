@@ -51,7 +51,9 @@ var employees = [
 */
 
 //Code Here
-
+function employeeUpdater(){
+  for (var i=0; i=employeeUpdater.length; i++)
+}
 
 
 ////////// PROBLEM 2 //////////
